@@ -1,4 +1,3 @@
 hello second modify
-hello first modify
 hot-fix modify
 3333333333333
